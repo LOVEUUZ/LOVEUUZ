@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mushi0&hide_title=false&hide_rank=true&show_icons=true&theme=aura&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1" width="40%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mushi0&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=2" width="50%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=LOVEUUZ&hide_title=false&hide_rank=true&show_icons=true&theme=aura&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1" width="40%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LOVEUUZ&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=2" width="50%" /> </br>
 </div>
 
 <!-- snake -->
